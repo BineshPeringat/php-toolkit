@@ -7,16 +7,16 @@ The idea is to simplify the setup and creation of projects without dependence of
 > There is no license with this toolkit. It is open and free (free as in free beer).  
 > Haffun :thumbsup:
 
----
+<br />
 
-##Toolkit Index
+## Toolkit Index
 
 1. **MySql database interface (MDI) -** a simple interface employing the PHP PDO extension for interfacing with MySql databases.
 
----
+<br />
 
-##Toolkit Descriptions
-###MySql Database Interface
+## Toolkit Descriptions
+### MySql Database Interface
 The MySql Database Interface or MDI for short, is a class that provides out-of-the box, hassle free connectivity to one or more MySql databases. It provides simple methods for -
 
 - Creating database connections.
@@ -26,7 +26,9 @@ The MySql Database Interface or MDI for short, is a class that provides out-of-t
 
 Please read the MDI readme for requirements, documentation and usage examples.
 
+<br />
+
 ---
 
-####Footnote
+#### Footnote
 I am open to suggestions for updating the codebase where ever necessary, so do drop me a mail.
