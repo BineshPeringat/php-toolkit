@@ -11,13 +11,13 @@ The idea is to simplify the setup and creation of projects without dependence of
 
 ## Toolkit Index
 
-1. **MySql database interface (MDI) -** a simple interface employing the PHP PDO extension for interfacing with MySql databases.
+1. **MySQL database interface (MDI) -** a simple interface employing the PHP PDO extension for interfacing with MySQL databases.
 
 <br />
 
 ## Toolkit Descriptions
-### MySql Database Interface
-The MySql Database Interface or MDI for short, is a class that provides out-of-the box, hassle free connectivity to one or more MySql databases. It provides simple methods for -
+### MySQL Database Interface
+The MySQL Database Interface or MDI for short, is a class that provides out-of-the box, hassle free connectivity to one or more MySQL databases. It provides simple methods for -
 
 - Creating database connections.
 - Simplifying SQL queries.
@@ -31,4 +31,6 @@ Please read the MDI readme for requirements, documentation and usage examples.
 ---
 
 #### Footnote
-I am open to suggestions for updating the codebase where ever necessary, so do drop me a mail.
+- I am open to suggestions for updating the codebase where ever necessary, so do drop me a mail.
+- Credit, when given, will be really appreciated :beer:
+- Also finally. Do let me know if you used this in your project, again at your discretion. Think of this as a high-five :hand:
